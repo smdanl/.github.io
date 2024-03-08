@@ -2,40 +2,40 @@
 title: "Sananda Mallisetty" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
-  image: img/profile.png
+  image: img/sanu-pic.jpg
   image-width: 16em
   image-shape: round # rectangle  round  rounded
   
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/sananda-mallisetty-30b371290/
     - icon: instagram
       text: Instagram
-      href: https://instagram.com
+      href: https://instagram.com/_sanuuuuu._._
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/smdanl
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://GITHUB_USERNAME.github.io/resume-example.pdf
+      href: https://smdanl.github.io/sm-resume.pdf
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:sm80@geneseo.edu
 
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+Sanu majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Sanu enjoys spending time unicycling and playing with her pet bunny
 
 ## Education
 
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
+B.S. in Data Analytics | Aug 2023 - May 2027 <br>
 Minor in Business Administration 
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+Works in the Library (Research department)
 
 
